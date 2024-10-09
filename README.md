@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I am a gamer**
 
-
-<br>
 <h3 align="left">Skills:</h3>
 <div dir="auto">
   <div align="left" dir="auto">

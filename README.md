@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dirqa Haraka Putra Nursadih</h1>
-<h3 align="center">A passionate Cyber Security from Indonesia</h3>
+<h3 align="left">About Me:</h3>
+<h1 align="left">Hi 👋, I'm Dirqa Haraka Putra Nursadih</h1>
+<h3 align="left">A passionate Cyber Security from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dirqaharaka&label=Profile%20views&color=0e75b6&style=flat" alt="dirqaharaka" /> </p>
 
 - 🌱 I’m currently learning **Bug Bounty and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://dirqaharaka.github.io](https://dirqaharaka.github.io)
+- 👨‍💻 All of my projects are available at [@dirqaharaka](https://dirqaharaka.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@drxiiiq](https://medium.com/@drxiiiq)
+- 📝 I regularly write articles on [Medium](https://medium.com/@drxiiiq)
 
 - ⚡ Fun fact **I am a gamer**
 

@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dirqaharaka&label=Profile%20views&color=0e75b6&style=flat" alt="dirqaharaka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dirqaharaka" alt="dirqaharaka" /></a> </p>
-
 - 🌱 I’m currently learning **Bug Bounty and Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://dirqaharaka.github.io](https://dirqaharaka.github.io)

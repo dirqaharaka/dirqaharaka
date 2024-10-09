@@ -11,16 +11,9 @@
 
 - ⚡ Fun fact **I am a gamer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/dirqaharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/dirqaharaka" height="30" width="40" /></a>
-<a href="https://instagram.com/https://github.com/drxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/drxiiiq" height="30" width="40" /></a>
-<a href="https://medium.com/@drxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drxiiiq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://linkedin.com/dirxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://linkedin.com/dirxiiiq" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Skills:</h3>
 <br>
+<h3 align="left">Skills:</h3>
 <div dir="auto">
   <div align="left" dir="auto">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3fe19c163aa55e7cc726050226cb88434de7bd1929286f3cbd3b6eb13ba102f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646363633333f7374796c653d666f722d7468652d6261646765266c6f676f3d627572702d737569746526636f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/3fe19c163aa55e7cc726050226cb88434de7bd1929286f3cbd3b6eb13ba102f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427572705f53756974652d4646363633333f7374796c653d666f722d7468652d6261646765266c6f676f3d627572702d737569746526636f6c6f723d303030303030" alt="Burp Suite" data-canonical-src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burp-suite&amp;color=000000" style="max-width: 100%;"></a>
@@ -59,6 +52,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dirqaharaka&show_icons=true&locale=en" alt="dirqaharaka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dirqaharaka&" alt="dirqaharaka" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/dirqaharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/dirqaharaka" height="30" width="40" /></a>
+<a href="https://instagram.com/https://github.com/drxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/drxiiiq" height="30" width="40" /></a>
+<a href="https://medium.com/@drxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@drxiiiq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://linkedin.com/dirxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://linkedin.com/dirxiiiq" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/drxiiiq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drxiiiq" /></a><a href="https://ko-fi.com/drxiiiq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="drxiiiq" /></a></p><br><br>

@@ -59,5 +59,6 @@
 <a href="https://www.youtube.com/c/https://linkedin.com/dirxiiiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://linkedin.com/dirxiiiq" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
+
+<!-- <h3 align="left">Support:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/drxiiiq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="drxiiiq" /></a><a href="https://ko-fi.com/drxiiiq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="drxiiiq" /></a></p><br><br> -->
